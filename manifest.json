@@ -1,0 +1,17 @@
+{
+    "name": "LEARNING ENGLISH",
+    "short_name": "LEARNING ENGLISH",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icono.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
